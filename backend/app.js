@@ -1,9 +1,10 @@
 const express = require ('express');
 const app = express();
+const path = require("path");
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const user = require('./models/user.js');
-const Thing = require('./models/sauce');
+const sauce = require('./models/sauce');
 const sauceRoutes = require('./routes/sauce');
 const userRoutes = require('./routes/user');
 
@@ -25,6 +26,7 @@ app.use((req, res, next) => {
     next();
 });
 app.use(bodyParser.json());
+
 app.use('/api/sauces', sauceRoutes);
 app.use('/api/auth',userRoutes)
 
