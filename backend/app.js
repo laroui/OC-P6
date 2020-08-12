@@ -2,8 +2,8 @@ const express = require ('express');
 const app = express();
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-const user = require('./models/User');
-const Thing = require('./models/thing');
+const user = require('./models/user.js');
+const Thing = require('./models/sauce');
 const sauceRoutes = require('./routes/sauce');
 const userRoutes = require('./routes/user');
 
@@ -11,7 +11,7 @@ const userRoutes = require('./routes/user');
 
 
 
-mongoose.connect('mongodb+srv://sopecko:peckoco@cluster0.ygd8u.mongodb.net/sopecko?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://dzaltern:passfor@cluster0-kqhbz.mongodb.net/test?retryWrites=true&w=majority',
     { useNewUrlParser: true,
         useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))

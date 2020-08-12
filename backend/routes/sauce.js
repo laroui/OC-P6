@@ -8,7 +8,7 @@ const auth = require('../middleware/auth');
 const multer = require('../middleware/mt-conf');
 
 //router.post('/', auth, sauce.ANALYSE);
-router.put('/:id', auth, multer, sauce.update)
+router.put('/:id', auth, multer, sauce.update);
 router.delete('/:id', auth, sauce.delete);
 
 router.post('/', auth, multer, sauce.create);
