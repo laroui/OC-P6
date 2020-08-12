@@ -157,5 +157,8 @@
       }
     }
   },
-  "defaultProject": "the-hottest-reviews"
+  "defaultProject": "the-hottest-reviews",
+  "cli": {
+    "analytics": false
+  }
 }
