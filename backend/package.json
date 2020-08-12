@@ -1,0 +1,12 @@
+{
+  "name": "Sopecko",
+  "version": "1.0.0",
+  "repository": "./",
+  "description": "Sopécko est un backend qui gère la sauce ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LAROUI Nacim",
+  "license": "ISC"
+}
