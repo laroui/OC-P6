@@ -13,6 +13,8 @@
     <list default="true" id="b44dd137-41b9-4d38-b528-73e5911c4fca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/services/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/auth.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (the-hottest-reviews)" type="JavaScriptTestRunnerKarma">
@@ -73,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621179520543</updated>
-      <workItem from="1621179521608" duration="1798000" />
+      <workItem from="1621179521608" duration="5392000" />
     </task>
     <servers />
   </component>
@@ -96,9 +99,30 @@
       <screen x="-1440" y="252" width="1440" height="860" />
     </state>
     <state x="-1040" y="418" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1440.252.1440.860@-1440.252.1440.860" timestamp="1621179928919" />
-    <state x="-1140" y="417" key="IDE.errors.dialog" timestamp="1621180515711">
-      <screen x="-1440" y="252" width="1440" height="860" />
+    <state width="1892" height="287" key="GridCell.Tab.0.bottom" timestamp="1621187374638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621187374638" />
+    <state width="1892" height="287" key="GridCell.Tab.0.center" timestamp="1621187374638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621187374638" />
+    <state width="1892" height="287" key="GridCell.Tab.0.left" timestamp="1621187374638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621187374638" />
+    <state width="1892" height="287" key="GridCell.Tab.0.right" timestamp="1621187374638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1892" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621187374638" />
+    <state x="400" y="200" key="IDE.errors.dialog" timestamp="1621187618534">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1140" y="417" key="IDE.errors.dialog/0.0.1920.1040/-1440.252.1440.860@-1440.252.1440.860" timestamp="1621180515711" />
+    <state x="400" y="200" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621187618534" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1621187987730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621187987730" />
   </component>
 </project>
